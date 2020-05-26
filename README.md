@@ -8,5 +8,5 @@ python newtorkscanner_new.py -t IP/Subnet
 
 ### Download
 
-git clone 
-cd Network-Scanner
+1) git clone https://github.com/devansh3008/Network-Scanner.git 
+2) cd Network-Scanner

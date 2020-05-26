@@ -11,7 +11,7 @@ python networkscanner_new.py -t IP/Subnet
 1) git clone https://github.com/devansh3008/Network-Scanner.git 
 2) cd Network-Scanner
 
-#### Support
+#### Support:
 
-1) Python 2
-2) Python 3
+ Python 2
+ Python 3

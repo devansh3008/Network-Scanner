@@ -20,8 +20,8 @@ If the IP address is not found in the ARP table, the system will then send a bro
 python networkscanner_new.py -t IP/Subnet
 
 ### Requirements:
-1)optarse
-2)scapy
+1) optarse
+2) scapy
 
 #### Download Requirements:
 
